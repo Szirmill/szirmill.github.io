@@ -16,7 +16,7 @@
         <mxCell id="isprb13NTtYWQOviIAQ4-4" value="Be: m, b" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="365" y="70" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-7" target="isprb13NTtYWQOviIAQ4-23">
+        <mxCell id="isprb13NTtYWQOviIAQ4-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-7" target="isprb13NTtYWQOviIAQ4-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="550" y="230" as="targetPoint" />
           </mxGeometry>
@@ -46,77 +46,178 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-10" value="Be: ÉTk.&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ÉTv&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="220" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-19" target="isprb13NTtYWQOviIAQ4-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-27" value="Igaz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isprb13NTtYWQOviIAQ4-22">
-          <mxGeometry x="-0.1" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-19" target="isprb13NTtYWQOviIAQ4-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="340" />
-              <mxPoint x="320" y="232" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-26" value="Hamis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isprb13NTtYWQOviIAQ4-25">
-          <mxGeometry x="-0.1664" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="360" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-19" value="ÉTk és ÉTv számok és&amp;nbsp;&lt;div&gt;ábrázolható tartományon belül vannak&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="200" height="100" as="geometry" />
+          <mxGeometry x="280" y="390" width="280" height="100" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-21" target="isprb13NTtYWQOviIAQ4-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-21" value="x-y számpárosok kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="280" height="40" as="geometry" />
+        <mxCell id="isprb13NTtYWQOviIAQ4-21" value="Modul: 20 db x-y számpáros kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="530" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-23" value="Cím kiíratása" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-23" target="isprb13NTtYWQOviIAQ4-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="320" as="sourcePoint" />
-            <mxPoint x="450" y="270" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="240" />
-              <mxPoint x="530" y="240" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="isprb13NTtYWQOviIAQ4-23" value="Cím kiíratása m és b behelyettesítésével:&lt;br&gt;Az f(x) = mx + b függvény ábrázolása és jellemzői" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="240" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-30" target="isprb13NTtYWQOviIAQ4-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-30" value="Függvény ábrázolása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="280" height="40" as="geometry" />
+          <mxGeometry x="270" y="600" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-32" target="isprb13NTtYWQOviIAQ4-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-32" value="Értelmezési tartomány kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="280" height="40" as="geometry" />
+          <mxGeometry x="285" y="700" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-34" target="isprb13NTtYWQOviIAQ4-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-34" value="Értékkészlet meghatározása és kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="680" width="280" height="40" as="geometry" />
+          <mxGeometry x="280" y="780" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-36" target="isprb13NTtYWQOviIAQ4-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-36" value="Menetének meghatározása és kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="760" width="280" height="40" as="geometry" />
+          <mxGeometry x="280" y="860" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-38" value="Zérushely: ellenőrzés, hogy van-e, válasz kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="840" width="280" height="40" as="geometry" />
+          <mxGeometry x="280" y="960" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.481;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-23" target="isprb13NTtYWQOviIAQ4-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="520" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-19" target="isprb13NTtYWQOviIAQ4-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="420" as="sourcePoint" />
+            <mxPoint x="190" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-44" value="Hamis" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isprb13NTtYWQOviIAQ4-43">
+          <mxGeometry x="-0.2105" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-19" target="isprb13NTtYWQOviIAQ4-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="460" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-46" target="isprb13NTtYWQOviIAQ4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-46" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="10" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-47" target="isprb13NTtYWQOviIAQ4-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-47" value="x tömb feltöltése az x értékeivel:&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="160" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-49" value="20 db x-y értékpár kiírása táblázatban" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="10" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-51" value="i = 1&lt;div&gt;x[0] = ÉT&lt;sub&gt;k&lt;/sub&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-53" target="isprb13NTtYWQOviIAQ4-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-61" value="Igaz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="isprb13NTtYWQOviIAQ4-56">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-53" target="isprb13NTtYWQOviIAQ4-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-53" value="i &amp;lt; 20" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-55" value="x[i] = x[i-i] + d&lt;div&gt;i = i + 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="460" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-57" target="isprb13NTtYWQOviIAQ4-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-57" value="be: ÉTk, ÉTv, m, b&lt;div&gt;d = ÉTv- ÉTk&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-55" target="isprb13NTtYWQOviIAQ4-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="320" as="sourcePoint" />
+            <mxPoint x="1080" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="530" />
+              <mxPoint x="1140" y="530" />
+              <mxPoint x="1140" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-51" target="isprb13NTtYWQOviIAQ4-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="320" as="sourcePoint" />
+            <mxPoint x="1080" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-66" target="isprb13NTtYWQOviIAQ4-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-66" value="y tömb feltöltése az y értékekkel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-67" target="isprb13NTtYWQOviIAQ4-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-67" value="i = 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-69" target="isprb13NTtYWQOviIAQ4-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-69" target="isprb13NTtYWQOviIAQ4-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-69" value="i &amp;lt; 20" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-71" value="y[i] = m * x[i] + b&lt;div&gt;i = i + 1&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-73" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-71" target="isprb13NTtYWQOviIAQ4-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="520" as="sourcePoint" />
+            <mxPoint x="1080" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1500" y="660" />
+              <mxPoint x="1500" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-74" value="Táblázat kirajzolása és feltöltése x és y értékpárokkal" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-76" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-74" target="isprb13NTtYWQOviIAQ4-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030" y="520" as="sourcePoint" />
+            <mxPoint x="1080" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
