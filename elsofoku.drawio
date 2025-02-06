@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-21" value="x-y számpárosok kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="440" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-23" value="Cím kiíratása" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="130" width="120" height="60" as="geometry" />
@@ -95,10 +95,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="isprb13NTtYWQOviIAQ4-30" value="Függvény ábrázolása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="520" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="isprb13NTtYWQOviIAQ4-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="isprb13NTtYWQOviIAQ4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-32" target="isprb13NTtYWQOviIAQ4-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-32" value="Értelmezési tartomány kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-34" target="isprb13NTtYWQOviIAQ4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-34" value="Értékkészlet meghatározása és kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="680" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="isprb13NTtYWQOviIAQ4-36" target="isprb13NTtYWQOviIAQ4-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-36" value="Menetének meghatározása és kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="isprb13NTtYWQOviIAQ4-38" value="Zérushely: ellenőrzés, hogy van-e, válasz kiírása" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="840" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
