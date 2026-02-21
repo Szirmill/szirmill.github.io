@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Avast/144.0.0.0" version="29.5.1">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="2297" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1378" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,69 +242,66 @@
         <mxCell id="Zibr8DntwpDXozHLyjs0-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N" vertex="1">
           <mxGeometry height="30" width="60" x="370" y="2100" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-301" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="4178.91" width="3940" x="2500" y="300" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Webshop modul" vertex="1">
+          <mxGeometry height="41.086956521739125" width="131.42857142857142" x="4128.571428571428" y="529.6739130434783" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-3" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Webshop modul" vertex="1">
-          <mxGeometry height="41.086956521739125" width="131.42857142857142" x="1628.5714285714284" y="239.67391304347825" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Főmodul website" vertex="1">
+          <mxGeometry height="20.543478260869563" width="35.84415584415584" x="4053.1493506493507" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-4" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Főmodul website" vertex="1">
-          <mxGeometry height="20.543478260869563" width="35.84415584415584" x="1553.1493506493507" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Forum modul" vertex="1">
+          <mxGeometry height="41.086956521739125" width="131.42857142857142" x="4128.571428571428" y="627.8260869565217" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-5" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Forum modul" vertex="1">
-          <mxGeometry height="41.086956521739125" width="131.42857142857142" x="1628.5714285714284" y="337.82608695652175" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Game rules modul" vertex="1">
+          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="4128.571428571428" y="715.7065217391305" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-6" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Game rules modul" vertex="1">
-          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="1628.5714285714284" y="425.7065217391305" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contacts modul" vertex="1">
+          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="4128.571428571428" y="805.8695652173913" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-7" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Contacts modul" vertex="1">
-          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="1628.5714285714284" y="515.8695652173913" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration modul" vertex="1">
+          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="4128.571428571428" y="892.6086956521739" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-8" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Registration modul" vertex="1">
-          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="1628.5714285714284" y="602.6086956521739" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Login modul" vertex="1">
+          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="4128.571428571428" y="983.913043478261" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-9" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Login modul" vertex="1">
-          <mxGeometry height="34.23913043478261" width="131.42857142857142" x="1628.5714285714284" y="693.913043478261" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="User onclick event" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4030" y="417.82608695652175" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-10" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="User onclick event" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1530" y="127.82608695652175" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4034.107142857143" y="337.9347826086956" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-11" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1534.1071428571431" y="47.93478260869563" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4030" y="509.13043478260875" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-12" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1530" y="219.13043478260875" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4030" y="600.4347826086956" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-13" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1530" y="310.4347826086956" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-14" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4030" y="691.7391304347825" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-14" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1530" y="401.7391304347825" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-15" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4030" y="781.9021739130435" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-15" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1530" y="491.9021739130435" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-16" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-16" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1677.8571428571431" y="168.91304347826087" />
-              <mxPoint x="1677.8571428571431" y="118.695652173913" />
+              <mxPoint x="4177.857142857143" y="458.9130434782609" />
+              <mxPoint x="4177.857142857143" y="408.695652173913" />
             </Array>
-            <mxPoint x="1998.2142857142853" y="328.695652173913" as="sourcePoint" />
-            <mxPoint x="1571.0714285714284" y="118.695652173913" as="targetPoint" />
+            <mxPoint x="4498.214285714285" y="618.695652173913" as="sourcePoint" />
+            <mxPoint x="4071.0714285714284" y="408.695652173913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-17" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1530" y="584.3478260869565" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4030" y="874.3478260869565" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-18" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1530" y="675.6521739130435" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-18" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="this selected&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4030" y="965.6521739130435" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-19" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1534.1071428571431" y="785.2173913043478" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4034.107142857143" y="1075.2173913043478" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-20" connectable="0" parent="Ea3GP3iA1odVjTlwHiLo-301" style="group" value="" vertex="1">
-          <mxGeometry height="287.3899999999999" width="160" x="2690" y="150" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="287.3899999999999" width="160" x="5190" y="440" as="geometry" />
         </mxCell>
         <mxCell id="Ea3GP3iA1odVjTlwHiLo-21" parent="Ea3GP3iA1odVjTlwHiLo-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DTO Product" vertex="1">
           <mxGeometry height="30" width="60" x="50" as="geometry" />
@@ -321,236 +318,236 @@
         <mxCell id="Ea3GP3iA1odVjTlwHiLo-25" parent="Ea3GP3iA1odVjTlwHiLo-20" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
           <mxGeometry height="54.78260869565217" width="73.92857142857143" x="43.03714285714284" y="232.60739130434774" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-26" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DTO Products List" vertex="1">
-          <mxGeometry height="30" width="60" x="2740" y="560" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DTO Products List" vertex="1">
+          <mxGeometry height="30" width="60" x="5240" y="850" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-27" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="2733.0371428571434" y="610.0047826086957" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5233.037142857143" y="900.0047826086957" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-28" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Products List = DTO(Products List)" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2690" y="682.5" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Products List = DTO(Products List)" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5190" y="972.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-29" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: Products List" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2690" y="735" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: Products List" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5190" y="1025" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-30" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="2733.0371428571434" y="792.6073913043479" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5233.037142857143" y="1082.6073913043479" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-31" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Game Rules&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="3036" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Game Rules&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="5536" y="290" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-32" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3034.107142857143" y="30.004782608695677" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5534.107142857143" y="320.0047826086957" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-33" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-34" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-33" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-34" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="3177.857142857143" y="150.98304347826092" />
-              <mxPoint x="3177.857142857143" y="100.76565217391305" />
+              <mxPoint x="5677.857142857143" y="440.9830434782609" />
+              <mxPoint x="5677.857142857143" y="390.76565217391305" />
             </Array>
-            <mxPoint x="3498.2142857142862" y="310.76565217391294" as="sourcePoint" />
-            <mxPoint x="3071.0714285714284" y="100.76565217391305" as="targetPoint" />
+            <mxPoint x="5998.214285714286" y="600.7656521739129" as="sourcePoint" />
+            <mxPoint x="5571.071428571428" y="390.76565217391305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-34" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="User onclick event" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3030" y="109.8960869565218" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-34" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="User onclick event" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5530" y="399.8960869565218" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-35" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3034.107142857143" y="299.99739130434773" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-35" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5534.107142857143" y="589.9973913043477" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-36" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-37" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-36" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-37" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="3530" y="250" />
-              <mxPoint x="3530" y="170" />
-              <mxPoint x="3530" y="100" />
+              <mxPoint x="6030" y="540" />
+              <mxPoint x="6030" y="460" />
+              <mxPoint x="6030" y="390" />
             </Array>
-            <mxPoint x="3471" y="248.42999999999984" as="sourcePoint" />
-            <mxPoint x="3180" y="100" as="targetPoint" />
+            <mxPoint x="5971" y="538.4299999999998" as="sourcePoint" />
+            <mxPoint x="5680" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-37" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="KI: Game rules text" vertex="1">
-          <mxGeometry height="50" width="420" x="3010" y="219.13" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-37" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="KI: Game rules text" vertex="1">
+          <mxGeometry height="50" width="420" x="5510" y="509.13" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-38" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cart Product" vertex="1">
-          <mxGeometry height="30" width="100" x="3431" y="950" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Cart Product" vertex="1">
+          <mxGeometry height="30" width="100" x="5931" y="1240" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-39" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3439.927142857143" y="995.8647826086958" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-39" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5939.927142857143" y="1285.8647826086958" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-40" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="ID == null" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3435.8199999999997" y="1069.9960869565218" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-40" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="ID == null" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5935.82" y="1359.9960869565218" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-41" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="product available &amp;gt; today" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3435.8199999999997" y="1169.9960869565218" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-41" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="product available &amp;gt; today" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5935.82" y="1459.9960869565218" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-42" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: &quot;404&quot; product not found" vertex="1">
-          <mxGeometry height="31.08" width="150" x="3540" y="1098" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-42" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: &quot;404&quot; product not found" vertex="1">
+          <mxGeometry height="31.08" width="150" x="6040" y="1388" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-43" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: product not available" vertex="1">
-          <mxGeometry height="31.08" width="150" x="3531" y="1195.54" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-43" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: product not available" vertex="1">
+          <mxGeometry height="31.08" width="150" x="6031" y="1485.54" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-44" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response Cart List" vertex="1">
-          <mxGeometry height="37.5" width="160" x="3155" y="1610" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response Cart List" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5655" y="1900" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-45" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3198.0371428571434" y="1688.8573913043474" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-45" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5698.037142857143" y="1978.8573913043474" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-46" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-42" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-45" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-46" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-42" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-45" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="3731" y="1114" />
-              <mxPoint x="3731" y="1720" />
+              <mxPoint x="6231" y="1404" />
+              <mxPoint x="6231" y="2010" />
             </Array>
-            <mxPoint x="3121" y="1460" as="sourcePoint" />
-            <mxPoint x="3521" y="1720" as="targetPoint" />
+            <mxPoint x="5621" y="1750" as="sourcePoint" />
+            <mxPoint x="6021" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-47" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-43" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-47" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-43" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3121" y="1460" as="sourcePoint" />
-            <mxPoint x="3730" y="1217" as="targetPoint" />
+            <mxPoint x="5621" y="1750" as="sourcePoint" />
+            <mxPoint x="6230" y="1507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-48" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="product exists in cart" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3435.8199999999997" y="1269.9960869565218" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-48" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="product exists in cart" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5935.82" y="1559.9960869565218" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-49" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Increase product number in Cart database" vertex="1">
-          <mxGeometry height="37.5" width="160" x="3200" y="1380" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-49" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Increase product number in Cart database" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5700" y="1670" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-50" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Add product to Cart" vertex="1">
-          <mxGeometry height="37.5" width="160" x="3396.8899999999994" y="1380" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add product to Cart" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5896.889999999999" y="1670" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-51" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Operation == add" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3238.9300000000003" y="1269.9960869565218" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-51" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Operation == add" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5738.93" y="1559.9960869565218" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-52" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Cart product number &amp;gt; 0" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3048.9300000000003" y="1269.9960869565218" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-52" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Cart product number &amp;gt; 0" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5548.93" y="1559.9960869565218" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-53" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Decrease product number in Cart database" vertex="1">
-          <mxGeometry height="37.5" width="160" x="3010" y="1380" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Decrease product number in Cart database" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5510" y="1670" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-54" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="DTO Cart List" vertex="1">
-          <mxGeometry height="37.5" width="670" x="2900" y="1530" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DTO Cart List" vertex="1">
+          <mxGeometry height="37.5" width="670" x="5400" y="1820" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-55" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-52" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ea3GP3iA1odVjTlwHiLo-54" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-55" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-52" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.02;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ea3GP3iA1odVjTlwHiLo-54" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2913" y="1310" />
+              <mxPoint x="5413" y="1600" />
             </Array>
-            <mxPoint x="3070" y="1560" as="sourcePoint" />
-            <mxPoint x="3120" y="1510" as="targetPoint" />
+            <mxPoint x="5570" y="1850" as="sourcePoint" />
+            <mxPoint x="5620" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-56" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ea3GP3iA1odVjTlwHiLo-54" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-56" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ea3GP3iA1odVjTlwHiLo-54" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3090" y="1420" as="sourcePoint" />
-            <mxPoint x="3090" y="1520" as="targetPoint" />
+            <mxPoint x="5590" y="1710" as="sourcePoint" />
+            <mxPoint x="5590" y="1810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-57" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-57" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3288" y="1419" as="sourcePoint" />
-            <mxPoint x="3288" y="1526" as="targetPoint" />
+            <mxPoint x="5788" y="1709" as="sourcePoint" />
+            <mxPoint x="5788" y="1816" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-58" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-58" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.283;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3489" y="1422" as="sourcePoint" />
-            <mxPoint x="3489" y="1529" as="targetPoint" />
+            <mxPoint x="5989" y="1712" as="sourcePoint" />
+            <mxPoint x="5989" y="1819" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-59" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DTO Cart List" vertex="1">
-          <mxGeometry height="30" width="60" x="3146" y="552.61" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DTO Cart List" vertex="1">
+          <mxGeometry height="30" width="60" x="5646" y="842.61" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-60" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3139.0371428571434" y="602.6147826086957" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-60" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5639.037142857143" y="892.6147826086957" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-61" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Cart List = DTO(Cart List)" vertex="1">
-          <mxGeometry height="37.5" width="160" x="3096" y="675.1100000000001" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cart List = DTO(Cart List)" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5596" y="965.1100000000001" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-62" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: Cart List" vertex="1">
-          <mxGeometry height="37.5" width="160" x="3096" y="727.6100000000001" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: Cart List" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5596" y="1017.6100000000001" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-63" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3139.0371428571434" y="785.2173913043478" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5639.037142857143" y="1075.2173913043478" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-64" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Contacts&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="3446" y="310.01" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Contacts&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="5946" y="600.01" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-65" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3444.107142857143" y="340.01478260869567" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-65" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5944.107142857143" y="630.0147826086957" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-66" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-67" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-66" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-67" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="3587.857142857143" y="460.9930434782609" />
-              <mxPoint x="3587.857142857143" y="410.77565217391304" />
+              <mxPoint x="6087.857142857143" y="750.9930434782609" />
+              <mxPoint x="6087.857142857143" y="700.775652173913" />
             </Array>
-            <mxPoint x="3908.2142857142862" y="620.7756521739129" as="sourcePoint" />
-            <mxPoint x="3481.0714285714284" y="410.77565217391304" as="targetPoint" />
+            <mxPoint x="6408.214285714286" y="910.7756521739129" as="sourcePoint" />
+            <mxPoint x="5981.071428571428" y="700.775652173913" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-67" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="User onclick event" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3440" y="419.9060869565218" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-67" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="User onclick event" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5940" y="709.9060869565218" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-68" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3444.107142857143" y="610.0073913043477" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-68" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5944.107142857143" y="900.0073913043477" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-69" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-70" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-69" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-70" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="3940" y="560.01" />
-              <mxPoint x="3940" y="480.01" />
-              <mxPoint x="3940" y="410.01" />
+              <mxPoint x="6440" y="850.01" />
+              <mxPoint x="6440" y="770.01" />
+              <mxPoint x="6440" y="700.01" />
             </Array>
-            <mxPoint x="3881" y="558.4399999999998" as="sourcePoint" />
-            <mxPoint x="3590" y="410.01" as="targetPoint" />
+            <mxPoint x="6381" y="848.4399999999998" as="sourcePoint" />
+            <mxPoint x="6090" y="700.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-70" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="KI: Contacts text" vertex="1">
-          <mxGeometry height="50" width="420" x="3420" y="529.14" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-70" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="KI: Contacts text" vertex="1">
+          <mxGeometry height="50" width="420" x="5920" y="819.14" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-71" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Regisztráció&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="1065.6800000000003" y="1152.17" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Regisztráció&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="3565.6800000000003" y="1442.17" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-72" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-161" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-72" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-161" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-73" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1060.937142857143" y="1184.7847826086959" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-73" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3560.937142857143" y="1474.7847826086959" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-74" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: felhasználónév" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1014.7799999999997" y="1392.17" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-74" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: felhasználónév" vertex="1">
+          <mxGeometry height="31.08" width="150" x="3514.7799999999997" y="1682.17" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-75" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: email cím" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1016.3400000000001" y="1442.17" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-75" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: email cím" vertex="1">
+          <mxGeometry height="31.08" width="150" x="3516.34" y="1732.17" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-76" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: jelszó" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1008.8400000000001" y="1493.4200000000003" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-76" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: jelszó" vertex="1">
+          <mxGeometry height="31.08" width="150" x="3508.84" y="1783.4200000000003" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-77" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-170" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-77" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-170" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-78" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="A validáció sikeres?" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1035.58" y="1725.806086956522" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-78" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="A validáció sikeres?" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3535.58" y="2015.806086956522" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-79" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-79" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080.5789473684217" y="2350" as="targetPoint" />
+            <mxPoint x="3580.5789473684217" y="2640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-80" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-174">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-80" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-174">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-81" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Létezik ilyen email cím az&amp;nbsp; adatbázisban?" vertex="1">
-          <mxGeometry height="130" width="117.38" x="1021.8699999999999" y="2183.36" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-81" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Létezik ilyen email cím az&amp;nbsp; adatbázisban?" vertex="1">
+          <mxGeometry height="130" width="117.38" x="3521.87" y="2473.36" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-82" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: megfelelő hibaüzenet" vertex="1">
-          <mxGeometry height="40" width="200" x="1203.3000000000002" y="1752.0100000000002" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-82" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: megfelelő hibaüzenet" vertex="1">
+          <mxGeometry height="40" width="200" x="3703.3" y="2042.0100000000002" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-83" connectable="0" parent="Ea3GP3iA1odVjTlwHiLo-301" style="group" value="" vertex="1">
-          <mxGeometry height="556.1499999999999" width="491.89" x="2110" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-83" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="556.1499999999999" width="491.89" x="4610" y="290" as="geometry" />
         </mxCell>
         <mxCell id="Ea3GP3iA1odVjTlwHiLo-84" parent="Ea3GP3iA1odVjTlwHiLo-83" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Webshop modul&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="12.95999999999998" as="geometry" />
@@ -623,8 +620,8 @@
             <mxPoint x="491.89" y="343.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-101" connectable="0" parent="Ea3GP3iA1odVjTlwHiLo-301" style="group" value="" vertex="1">
-          <mxGeometry height="802.28" width="630" x="2040" y="650" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-101" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="802.28" width="630" x="4540" y="940" as="geometry" />
         </mxCell>
         <mxCell id="Ea3GP3iA1odVjTlwHiLo-102" parent="Ea3GP3iA1odVjTlwHiLo-101" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Search products REST API endpoind modul" vertex="1">
           <mxGeometry height="30" width="100" x="330" as="geometry" />
@@ -730,206 +727,206 @@
             <mxPoint x="630" y="367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-126" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Registration Set User Data&lt;/div&gt;" vertex="1">
-          <mxGeometry height="33.58" width="60" x="2226.7299999999996" y="1626" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-126" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Registration Set User Data&lt;/div&gt;" vertex="1">
+          <mxGeometry height="33.58" width="60" x="4726.73" y="1916" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-127" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="2221.987142857143" y="1658.6147826086958" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-127" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4721.987142857143" y="1948.6147826086958" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-128" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Create User in database with state = pending" vertex="1">
-          <mxGeometry height="35" width="160" x="2174.5" y="2326.59" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-128" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Create User in database with state = pending" vertex="1">
+          <mxGeometry height="35" width="160" x="4674.5" y="2616.59" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-129" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;SUCCESSED&quot;" vertex="1">
-          <mxGeometry height="35" width="160" x="2176.3899999999994" y="2513.29" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;SUCCESSED&quot;" vertex="1">
+          <mxGeometry height="35" width="160" x="4676.389999999999" y="2803.29" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-130" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="2216.2071428571426" y="2593.3973913043474" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-130" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4716.207142857143" y="2883.3973913043474" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-131" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Registration Check Code&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="3007.96" y="1863.7399999999998" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-131" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Registration Check Code&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="5507.96" y="2153.74" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-132" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3003.217142857143" y="1896.354782608696" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-132" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5503.217142857143" y="2186.354782608696" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-133" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="i = 0" vertex="1">
-          <mxGeometry height="35" width="160" x="2950" y="1995.9" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-133" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i = 0" vertex="1">
+          <mxGeometry height="35" width="160" x="5450" y="2285.9" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-134" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="i = i + 1" vertex="1">
-          <mxGeometry height="35" width="160" x="3171.25" y="2115.68" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="i = i + 1" vertex="1">
+          <mxGeometry height="35" width="160" x="5671.25" y="2405.68" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-135" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="i &amp;lt; 3" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="3210.1800000000003" y="2005.8960869565217" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-135" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="i &amp;lt; 3" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5710.18" y="2295.8960869565217" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-136" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-135" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-136" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-135" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="3641.25" y="2045.9" as="sourcePoint" />
-            <mxPoint x="3021.25" y="2045.9" as="targetPoint" />
+            <mxPoint x="6141.25" y="2335.9" as="sourcePoint" />
+            <mxPoint x="5521.25" y="2335.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-137" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Update User in database with state = active" vertex="1">
-          <mxGeometry height="35" width="160" x="2966.01" y="2248.6899999999996" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-137" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update User in database with state = active" vertex="1">
+          <mxGeometry height="35" width="160" x="5466.01" y="2538.6899999999996" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-138" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Generate unique check Code" vertex="1">
-          <mxGeometry height="35" width="160" x="2173.17" y="2383.29" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Generate unique check Code" vertex="1">
+          <mxGeometry height="35" width="160" x="4673.17" y="2673.29" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-139" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Send Email with checkCode" vertex="1">
-          <mxGeometry height="35" width="160" x="2173.17" y="2443.29" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Send Email with checkCode" vertex="1">
+          <mxGeometry height="35" width="160" x="4673.17" y="2733.29" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-140" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1043.597142857143" y="2866.4773913043477" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-140" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3543.597142857143" y="3156.4773913043477" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-141" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-159" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="2490" y="2570" />
-            </Array>
-            <mxPoint x="2455.2199999999993" y="2428.58" as="sourcePoint" />
-            <mxPoint x="2250" y="2570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-142" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="CheckCode correct" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2999.1099999999997" y="2152.2060869565216" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-143" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Check Code&quot;" vertex="1">
-          <mxGeometry height="35" width="160" x="3171.25" y="2175.79" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-144" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;SUCCESSED&quot;" vertex="1">
-          <mxGeometry height="35" width="160" x="2966.01" y="2305.22" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-145" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3009.0471428571427" y="2405.2173913043475" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-146" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-143" style="endArrow=classic;html=1;rounded=0;exitX=0.575;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-141" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-159" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="3263.25" y="2375.22" />
+              <mxPoint x="4990" y="2860" />
             </Array>
-            <mxPoint x="2661.25" y="2245.22" as="sourcePoint" />
-            <mxPoint x="3041.25" y="2375.22" as="targetPoint" />
+            <mxPoint x="4955.219999999999" y="2718.58" as="sourcePoint" />
+            <mxPoint x="4750" y="2860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-147" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="username.length &amp;gt;= 5 &amp;amp; username.length &amp;lt;= 12" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2215.99" y="1727.6660869565221" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-142" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="CheckCode correct" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5499.11" y="2442.2060869565216" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-148" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="username már exists" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2218.7699999999995" y="1907.3860869565224" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Check Code&quot;" vertex="1">
+          <mxGeometry height="35" width="160" x="5671.25" y="2465.79" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-149" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="username.contains special characters" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2217.88" y="1819.996086956522" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;SUCCESSED&quot;" vertex="1">
+          <mxGeometry height="35" width="160" x="5466.01" y="2595.22" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-150" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="email_address contains &#39;@&#39; &amp;amp; &#39;.&#39; characters" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2218.7699999999995" y="1999.5760869565224" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-145" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5509.047142857143" y="2695.2173913043475" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-151" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="password.length &amp;gt; 9 characters" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2215.99" y="2093.6160869565224" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-152" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="password contains alphanumeric, number &amp;amp; special characters" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2213.71" y="2185.9060869565224" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-153" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-152" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-128" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2400" y="2380" as="sourcePoint" />
-            <mxPoint x="2450" y="2330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-154" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Username!&quot;" vertex="1">
-          <mxGeometry height="35" width="280" x="2350" y="1751.25" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-155" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Username!&quot;" vertex="1">
-          <mxGeometry height="35" width="280" x="2350" y="1843.58" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-156" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Username already exists!&quot;" vertex="1">
-          <mxGeometry height="35" width="280" x="2350" y="1933.4700000000003" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-157" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad EmailAddress!&quot;" vertex="1">
-          <mxGeometry height="35" width="280" x="2350" y="2023.1599999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-158" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Password!&quot;" vertex="1">
-          <mxGeometry height="35" width="280" x="2350" y="2111.77" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-159" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Password!&quot;" vertex="1">
-          <mxGeometry height="35" width="280" x="2350" y="2210.79" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-160" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-162" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-161" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: felhasználó rákattint a Regisztráció gombra" vertex="1">
-          <mxGeometry height="40" width="192.5" x="1001.6499999999996" y="1262.17" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-162" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="Oldal betöltése: regisztráció" vertex="1">
-          <mxGeometry height="45" width="192.5" x="1001.6499999999996" y="1327.17" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-163" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-166" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-164" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: jelszó megerősítése" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1001.6499999999996" y="1541.0300000000002" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-165" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-167" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-166" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="A felhasználó rákattint az Elküld gombra" vertex="1">
-          <mxGeometry height="24.52" width="191.24" x="981.0299999999997" y="1603.42" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-167" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="Frontend oldali validáció" vertex="1">
-          <mxGeometry height="33.75" width="193.3" x="980" y="1668.42" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-168" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-82" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-146" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-143" style="endArrow=classic;html=1;rounded=0;exitX=0.575;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="1303.3000000000002" y="1382.17" />
+              <mxPoint x="5763.25" y="2665.22" />
             </Array>
-            <mxPoint x="1253.3000000000002" y="1502.17" as="sourcePoint" />
-            <mxPoint x="1093.3000000000002" y="1382.17" as="targetPoint" />
+            <mxPoint x="5161.25" y="2535.22" as="sourcePoint" />
+            <mxPoint x="5541.25" y="2665.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-169" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-171" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-147" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="username.length &amp;gt;= 5 &amp;amp; username.length &amp;lt;= 12" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4715.99" y="2017.6660869565221" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-148" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="username már exists" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4718.7699999999995" y="2197.3860869565224" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-149" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="username.contains special characters" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4717.88" y="2109.996086956522" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-150" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="email_address contains &#39;@&#39; &amp;amp; &#39;.&#39; characters" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4718.7699999999995" y="2289.5760869565224" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-151" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="password.length &amp;gt; 9 characters" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4715.99" y="2383.6160869565224" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-152" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="password contains alphanumeric, number &amp;amp; special characters" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4713.71" y="2475.9060869565224" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-153" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-152" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-128" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="4900" y="2670" as="sourcePoint" />
+            <mxPoint x="4950" y="2620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-154" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Username!&quot;" vertex="1">
+          <mxGeometry height="35" width="280" x="4850" y="2041.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-155" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Username!&quot;" vertex="1">
+          <mxGeometry height="35" width="280" x="4850" y="2133.58" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-156" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Username already exists!&quot;" vertex="1">
+          <mxGeometry height="35" width="280" x="4850" y="2223.4700000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-157" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad EmailAddress!&quot;" vertex="1">
+          <mxGeometry height="35" width="280" x="4850" y="2313.16" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-158" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Password!&quot;" vertex="1">
+          <mxGeometry height="35" width="280" x="4850" y="2401.77" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-159" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: &quot;Bad Password!&quot;" vertex="1">
+          <mxGeometry height="35" width="280" x="4850" y="2500.79" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-160" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-162" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-170" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználónév, email cím és jelszó átadása a backendnek" vertex="1">
-          <mxGeometry height="60" width="273.3" x="940" y="1845.9099999999999" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-161" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: felhasználó rákattint a Regisztráció gombra" vertex="1">
+          <mxGeometry height="40" width="192.5" x="3501.6499999999996" y="1552.17" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-171" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a beérkezett adatokat az adatbázisnak" vertex="1">
-          <mxGeometry height="60" width="166.65" x="993.3299999999999" y="1933.3100000000004" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-162" parent="1" style="whiteSpace=wrap;html=1;" value="Oldal betöltése: regisztráció" vertex="1">
+          <mxGeometry height="45" width="192.5" x="3501.6499999999996" y="1617.17" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-172" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="89" width="260" x="957.5900000000001" y="2082.17" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-173" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: SQL kérés a felhasználó létrehozására az adatbázisban" vertex="1">
-          <mxGeometry height="60" width="218" x="975.3000000000002" y="2005.17" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-174" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: &quot;Már létezik ilyen email címmel felhasználó!&quot;" vertex="1">
-          <mxGeometry height="60" width="273.3" x="610" y="2223.69" as="geometry" />
-        </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-175" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-178" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-163" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-166" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-176" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="A felhasználó létrehozása az adatbázisban" vertex="1">
-          <mxGeometry height="89" width="260" x="947" y="2354.29" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-164" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: jelszó megerősítése" vertex="1">
+          <mxGeometry height="31.08" width="150" x="3501.6499999999996" y="1831.0300000000002" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-177" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-180" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-165" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-167" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-178" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válaszkód" vertex="1">
-          <mxGeometry height="60" width="246" x="954" y="2488.29" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-166" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="A felhasználó rákattint az Elküld gombra" vertex="1">
+          <mxGeometry height="24.52" width="191.24" x="3481.0299999999997" y="1893.42" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-179" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-182" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-167" parent="1" style="whiteSpace=wrap;html=1;" value="Frontend oldali validáció" vertex="1">
+          <mxGeometry height="33.75" width="193.3" x="3480" y="1958.42" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-168" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-82" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="3803.3" y="1672.17" />
+            </Array>
+            <mxPoint x="3753.3" y="1792.17" as="sourcePoint" />
+            <mxPoint x="3593.3" y="1672.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-169" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-171" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-180" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend kiküldi a regisztráció megerősítő emailt a felhasználónak" vertex="1">
-          <mxGeometry height="60" width="306" x="924" y="2580" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-170" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználónév, email cím és jelszó átadása a backendnek" vertex="1">
+          <mxGeometry height="60" width="273.3" x="3440" y="2135.91" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-181" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-183" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-171" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a beérkezett adatokat az adatbázisnak" vertex="1">
+          <mxGeometry height="60" width="166.65" x="3493.33" y="2223.3100000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-172" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="89" width="260" x="3457.59" y="2372.17" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-173" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: SQL kérés a felhasználó létrehozására az adatbázisban" vertex="1">
+          <mxGeometry height="60" width="218" x="3475.3" y="2295.17" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-174" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: &quot;Már létezik ilyen email címmel felhasználó!&quot;" vertex="1">
+          <mxGeometry height="60" width="273.3" x="3110" y="2513.69" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-175" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-178" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-182" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válaszkód továbbítása a frontendnek" vertex="1">
-          <mxGeometry height="60" width="226" x="964" y="2670" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-176" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="A felhasználó létrehozása az adatbázisban" vertex="1">
+          <mxGeometry height="89" width="260" x="3447" y="2644.29" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-183" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A frontend tájékoztatja a felhasználót a sikeres regisztrációról" vertex="1">
-          <mxGeometry height="60" width="206" x="974" y="2756.7" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-177" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-180" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-184" connectable="0" parent="Ea3GP3iA1odVjTlwHiLo-301" style="group" value="" vertex="1">
-          <mxGeometry height="481.52999999999975" width="408.3299999999999" y="330.00000000000045" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-178" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válaszkód" vertex="1">
+          <mxGeometry height="60" width="246" x="3454" y="2778.29" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-179" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-182" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-180" parent="1" style="whiteSpace=wrap;html=1;" value="A backend kiküldi a regisztráció megerősítő emailt a felhasználónak" vertex="1">
+          <mxGeometry height="60" width="306" x="3424" y="2870" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-181" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-183" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-182" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válaszkód továbbítása a frontendnek" vertex="1">
+          <mxGeometry height="60" width="226" x="3464" y="2960" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-183" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend tájékoztatja a felhasználót a sikeres regisztrációról" vertex="1">
+          <mxGeometry height="60" width="206" x="3474" y="3046.7" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-184" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="481.52999999999975" width="408.3299999999999" x="2500" y="620.0000000000005" as="geometry" />
         </mxCell>
         <mxCell id="Ea3GP3iA1odVjTlwHiLo-185" parent="Ea3GP3iA1odVjTlwHiLo-184" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="BE: Check Code" vertex="1">
           <mxGeometry height="31.08" width="150" x="16.25" y="190.6900000000005" as="geometry" />
@@ -973,347 +970,425 @@
         <mxCell id="Ea3GP3iA1odVjTlwHiLo-195" parent="Ea3GP3iA1odVjTlwHiLo-184" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="KI: &quot;Registration SUCCEEDED&quot;" vertex="1">
           <mxGeometry height="60" width="211.25" y="421.52999999999975" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-196" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1599.9971428571425" y="1171.8347826086958" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-196" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4099.9971428571425" y="1461.8347826086958" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-197" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: felhasználó rákattint a Bejelentkezés gombra" vertex="1">
-          <mxGeometry height="40" width="192.5" x="1540.71" y="1240" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-197" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: felhasználó rákattint a Bejelentkezés gombra" vertex="1">
+          <mxGeometry height="40" width="192.5" x="4040.71" y="1530" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-198" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="Oldal betöltése: bejelentkezés" vertex="1">
-          <mxGeometry height="45" width="192.5" x="1540.71" y="1307.17" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-198" parent="1" style="whiteSpace=wrap;html=1;" value="Oldal betöltése: bejelentkezés" vertex="1">
+          <mxGeometry height="45" width="192.5" x="4040.71" y="1597.17" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-199" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: email cím" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1565.71" y="1372.17" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-199" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: email cím" vertex="1">
+          <mxGeometry height="31.08" width="150" x="4065.71" y="1662.17" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-200" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: jelszó" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1558.21" y="1423.4200000000003" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-200" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: jelszó" vertex="1">
+          <mxGeometry height="31.08" width="150" x="4058.21" y="1713.4200000000003" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-201" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="A felhasználó rákattint az Elküld gombra" vertex="1">
-          <mxGeometry height="24.52" width="191.24" x="1530" y="1480" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-201" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="A felhasználó rákattint az Elküld gombra" vertex="1">
+          <mxGeometry height="24.52" width="191.24" x="4030" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-202" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="Frontend oldali validáció" vertex="1">
-          <mxGeometry height="33.75" width="193.3" x="1530" y="1531.8700000000001" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-202" parent="1" style="whiteSpace=wrap;html=1;" value="Frontend oldali validáció" vertex="1">
+          <mxGeometry height="33.75" width="193.3" x="4030" y="1821.8700000000001" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-203" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bejelentkezés" vertex="1">
-          <mxGeometry height="30" width="60" x="1600" y="1140" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-203" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Bejelentkezés" vertex="1">
+          <mxGeometry height="30" width="60" x="4100" y="1430" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-204" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="A validáció sikeres?" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="1595.8899999999994" y="1586.246086956522" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-204" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="A validáció sikeres?" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="4095.8899999999994" y="1876.246086956522" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-205" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználónév, email cím és jelszó átadása a backendnek" vertex="1">
-          <mxGeometry height="60" width="273.3" x="1490" y="1686.25" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-205" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználónév, email cím és jelszó átadása a backendnek" vertex="1">
+          <mxGeometry height="60" width="273.3" x="3990" y="1976.25" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-206" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a beérkezett adatokat az adatbázisnak" vertex="1">
-          <mxGeometry height="60" width="166.65" x="1555.7399999999998" y="1785.3000000000002" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-206" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a beérkezett adatokat az adatbázisnak" vertex="1">
+          <mxGeometry height="60" width="166.65" x="4055.74" y="2075.3" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-207" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: SQL kérés a felhasználó adatainak lekérdezése" vertex="1">
-          <mxGeometry height="60" width="218" x="1537.71" y="1857.1599999999999" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-207" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: SQL kérés a felhasználó adatainak lekérdezése" vertex="1">
+          <mxGeometry height="60" width="218" x="4037.71" y="2147.16" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-208" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="89" width="260" x="1520" y="1934.1599999999999" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-208" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="89" width="260" x="4020" y="2224.16" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-209" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-213">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-209" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-210" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-213">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-210" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Létezik az e-mail cím?" vertex="1">
-          <mxGeometry height="130" width="117.38" x="1582.0199999999995" y="2053.36" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-210" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Létezik az e-mail cím?" vertex="1">
+          <mxGeometry height="130" width="117.38" x="4082.0199999999995" y="2343.36" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-211" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-215" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-211" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-215" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-212" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: jelszó hash" vertex="1">
-          <mxGeometry height="60" width="246" x="1509.71" y="2210.79" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-212" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: jelszó hash" vertex="1">
+          <mxGeometry height="60" width="246" x="4009.71" y="2500.79" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-213" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: &quot;A megadott e-mail cím, jelszó&amp;nbsp; kombináció érvénytelen&quot;" vertex="1">
-          <mxGeometry height="60" width="273.3" x="1830" y="2090.68" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-213" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: &quot;A megadott e-mail cím, jelszó&amp;nbsp; kombináció érvénytelen&quot;" vertex="1">
+          <mxGeometry height="60" width="273.3" x="4330" y="2380.68" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-214" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-217" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-214" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-215" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-217" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-215" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend ellenőrzi, hogy helyes e a jelszó" vertex="1">
-          <mxGeometry height="60" width="254.58" x="1505.42" y="2305.22" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-215" parent="1" style="whiteSpace=wrap;html=1;" value="A backend ellenőrzi, hogy helyes e a jelszó" vertex="1">
+          <mxGeometry height="60" width="254.58" x="4005.42" y="2595.22" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-216" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ea3GP3iA1odVjTlwHiLo-213">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-216" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-217" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Ea3GP3iA1odVjTlwHiLo-213">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1810" y="2438" />
-              <mxPoint x="1810" y="2121" />
+              <mxPoint x="4310" y="2728" />
+              <mxPoint x="4310" y="2411" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-217" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="A jelsző helyes?" vertex="1">
-          <mxGeometry height="80" width="80" x="1592.71" y="2398.29" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-217" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="A jelsző helyes?" vertex="1">
+          <mxGeometry height="80" width="80" x="4092.71" y="2688.29" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-218" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: JWT kód átküldése a frontendnek" vertex="1">
-          <mxGeometry height="60" width="246" x="1505.42" y="2500.79" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-218" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: JWT kód átküldése a frontendnek" vertex="1">
+          <mxGeometry height="60" width="246" x="4005.42" y="2790.79" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-219" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A frontend tájékoztatja a felhasználót a sikeres bejelentkezésről" vertex="1">
-          <mxGeometry height="60" width="206" x="1533.96" y="2590.79" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-219" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend tájékoztatja a felhasználót a sikeres bejelentkezésről" vertex="1">
+          <mxGeometry height="60" width="206" x="4033.96" y="2880.79" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-220" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1603.7471428571425" y="2679.9973913043477" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-220" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4103.7471428571425" y="2969.9973913043477" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-221" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Search products REST API endpoind modul" vertex="1">
-          <mxGeometry height="30" width="100" x="2900" y="3000" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-221" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Search products REST API endpoind modul" vertex="1">
+          <mxGeometry height="30" width="100" x="5400" y="3290" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-222" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="ID alapú lekérdezés" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2908.9300000000003" y="3123.4760869565216" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-222" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="ID alapú lekérdezés" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5408.93" y="3413.4760869565216" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-223" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="2908.927142857143" y="3045.864782608696" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-223" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5408.927142857143" y="3335.864782608696" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-224" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="ID == null" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2908.9300000000003" y="3219.996086956522" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-224" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="ID == null" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5408.93" y="3509.996086956522" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-225" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="products available &amp;gt; today" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2908.9300000000003" y="3319.996086956522" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-225" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="products available &amp;gt; today" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5408.93" y="3609.996086956522" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-226" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="DTO Product" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2861.7799999999997" y="3490" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-226" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DTO Product" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5361.78" y="3780" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-227" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: &quot;404&quot; product not found" vertex="1">
-          <mxGeometry height="31.08" width="150" x="3010" y="3245.54" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-227" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: &quot;404&quot; product not found" vertex="1">
+          <mxGeometry height="31.08" width="150" x="5510" y="3535.54" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-228" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: product not available" vertex="1">
-          <mxGeometry height="31.08" width="150" x="3000" y="3345.54" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-228" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="response: product not available" vertex="1">
+          <mxGeometry height="31.08" width="150" x="5500" y="3635.54" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-229" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="response: product" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2861.7799999999997" y="3540" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-229" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="response: product" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5361.78" y="3830" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-230" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="2913.0371428571434" y="3747.4973913043477" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-230" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="5413.037142857143" y="4037.4973913043477" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-231" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Get product from database by ID" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2861.7799999999997" y="3430" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-231" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Get product from database by ID" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5361.78" y="3720" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-232" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Get next product from database by ID_asc" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2610" y="3313.04" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-232" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Get next product from database by ID_asc" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5110" y="3603.04" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-233" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Products List = []" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2608.9300000000003" y="3220" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-233" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Products List = []" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5108.93" y="3510" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-234" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="products available &amp;gt; today" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2647.8600000000006" y="3375.206086956522" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-234" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="products available &amp;gt; today" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5147.860000000001" y="3665.206086956522" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-235" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Add Products List" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2610" y="3475.21" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-235" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Add Products List" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5110" y="3765.21" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-236" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Next ID exists" vertex="1">
-          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="2647.8600000000006" y="3535.206086956522" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-236" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Next ID exists" vertex="1">
+          <mxGeometry height="82.17391304347825" width="82.14285714285714" x="5147.860000000001" y="3825.206086956522" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-237" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: Products List" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2610" y="3684.21" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-237" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Response: Products List" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5110" y="3974.21" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-238" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rounded=0;whiteSpace=wrap;html=1;" value="DTO Products List" vertex="1">
-          <mxGeometry height="37.5" width="160" x="2610" y="3632.71" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-238" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DTO Products List" vertex="1">
+          <mxGeometry height="37.5" width="160" x="5110" y="3922.71" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-239" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" style="endArrow=classic;html=1;rounded=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-239" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2570" y="3415.21" />
-              <mxPoint x="2570" y="3285.21" />
+              <mxPoint x="5070" y="3705.21" />
+              <mxPoint x="5070" y="3575.21" />
             </Array>
-            <mxPoint x="2640" y="3415.21" as="sourcePoint" />
-            <mxPoint x="2680" y="3285.21" as="targetPoint" />
+            <mxPoint x="5140" y="3705.21" as="sourcePoint" />
+            <mxPoint x="5180" y="3575.21" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-240" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-222" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Ea3GP3iA1odVjTlwHiLo-233" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-240" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-222" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Ea3GP3iA1odVjTlwHiLo-233" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2689" y="3165" />
+              <mxPoint x="5189" y="3455" />
             </Array>
-            <mxPoint x="2510" y="3470" as="sourcePoint" />
-            <mxPoint x="2560" y="3420" as="targetPoint" />
+            <mxPoint x="5010" y="3760" as="sourcePoint" />
+            <mxPoint x="5060" y="3710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-241" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-237" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-241" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-237" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="2690" y="3770" />
+              <mxPoint x="5190" y="4060" />
             </Array>
-            <mxPoint x="2510" y="3470" as="sourcePoint" />
-            <mxPoint x="2910" y="3770" as="targetPoint" />
+            <mxPoint x="5010" y="3760" as="sourcePoint" />
+            <mxPoint x="5410" y="4060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-242" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-230" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-242" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ea3GP3iA1odVjTlwHiLo-230" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="2950" y="3580" as="sourcePoint" />
-            <mxPoint x="2560" y="3420" as="targetPoint" />
+            <mxPoint x="5450" y="3870" as="sourcePoint" />
+            <mxPoint x="5060" y="3710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-243" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1603.1671428571426" y="3209.3547826086956" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-243" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4103.167142857143" y="3499.3547826086956" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-244" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: A felhasználó kiválasztja a termékkártyát" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1565.13" y="3278.27" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-244" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: A felhasználó kiválasztja a termékkártyát" vertex="1">
+          <mxGeometry height="31.08" width="150" x="4065.13" y="3568.27" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-245" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-248" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-245" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-248" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-246" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás a backend felé" vertex="1">
-          <mxGeometry height="27.83" width="186.16" x="1543.21" y="3400.31" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-246" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás a backend felé" vertex="1">
+          <mxGeometry height="27.83" width="186.16" x="4043.21" y="3690.31" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-247" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-250" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-247" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-250" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-248" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="38.21" width="226.16" x="1523.21" y="3453.31" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-248" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="4023.21" y="3743.31" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-249" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A frontend feldolgozza az eseményt" vertex="1">
-          <mxGeometry height="38.21" width="226.16" x="1535.92" y="3331.33" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-249" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend feldolgozza az eseményt" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="4035.92" y="3621.33" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-250" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a backend indít egy SQL lekérdezést" vertex="1">
-          <mxGeometry height="51.25" width="240" x="1513.21" y="3508.1" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-250" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a backend indít egy SQL lekérdezést" vertex="1">
+          <mxGeometry height="51.25" width="240" x="4013.21" y="3798.1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-251" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-254" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-251" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-254" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-252" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="60" width="212.22" x="1523.21" y="3579.35" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-252" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="60" width="212.22" x="4023.21" y="3869.35" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-253" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-256" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-253" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-256" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-254" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válasz a backendnek&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="227.78" x="1515.4300000000003" y="3662.06" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-254" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válasz a backendnek&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="227.78" x="4015.4300000000003" y="3952.06" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-255" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-258" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-255" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-258" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-256" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Van adat?" vertex="1">
-          <mxGeometry height="80" width="80" x="1589.3199999999997" y="3752.3099999999995" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-256" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Van adat?" vertex="1">
+          <mxGeometry height="80" width="80" x="4089.3199999999997" y="4042.3099999999995" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-257" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-261" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-257" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-261" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-258" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza" vertex="1">
-          <mxGeometry height="60" width="247.78" x="1505.4300000000003" y="3859.3500000000004" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-258" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza" vertex="1">
+          <mxGeometry height="60" width="247.78" x="4005.4300000000003" y="4149.35" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-259" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: hibaüzenet" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1803.21" y="3776.7700000000004" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-259" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: hibaüzenet" vertex="1">
+          <mxGeometry height="31.08" width="150" x="4303.21" y="4066.7700000000004" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-260" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-262" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-260" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-262" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-261" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: adatok továbbítása a frontendnek" vertex="1">
-          <mxGeometry height="30" width="163.89" x="1547.37" y="3949.3500000000004" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-261" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: adatok továbbítása a frontendnek" vertex="1">
+          <mxGeometry height="30" width="163.89" x="4047.37" y="4239.35" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-262" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A frontend megjeleníti a termék részletes adatait" vertex="1">
-          <mxGeometry height="60" width="247.79" x="1505.42" y="4009.3500000000004" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-262" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend megjeleníti a termék részletes adatait" vertex="1">
+          <mxGeometry height="60" width="247.79" x="4005.42" y="4299.35" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-263" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="816.2971428571427" y="3174.7847826086954" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-263" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3316.2971428571427" y="3464.7847826086954" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-264" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: A felhasználó rákattint a kategória gombjára" vertex="1">
-          <mxGeometry height="31.08" width="150" x="778.2600000000002" y="3243.7" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-264" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: A felhasználó rákattint a kategória gombjára" vertex="1">
+          <mxGeometry height="31.08" width="150" x="3278.26" y="3533.7" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-265" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-268" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-265" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-268" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-266" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás a backend felé" vertex="1">
-          <mxGeometry height="27.83" width="186.16" x="756.3400000000001" y="3365.74" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-266" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás a backend felé" vertex="1">
+          <mxGeometry height="27.83" width="186.16" x="3256.34" y="3655.74" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-267" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-270" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-267" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-268" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-270" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-268" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="38.21" width="226.16" x="736.3400000000001" y="3418.74" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-268" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="3236.34" y="3708.74" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-269" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A frontend feldolgozza az eseményt" vertex="1">
-          <mxGeometry height="38.21" width="226.16" x="749.0500000000002" y="3296.7599999999998" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-269" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend feldolgozza az eseményt" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="3249.05" y="3586.7599999999998" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-270" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a backend indít egy SQL lekérdezést" vertex="1">
-          <mxGeometry height="51.25" width="240" x="726.3400000000001" y="3473.5299999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-270" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a backend indít egy SQL lekérdezést" vertex="1">
+          <mxGeometry height="51.25" width="240" x="3226.34" y="3763.5299999999997" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-271" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-274" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-271" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-272" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-274" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-272" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="60" width="212.22" x="736.3400000000001" y="3544.7799999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-272" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="60" width="212.22" x="3236.34" y="3834.7799999999997" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-273" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-276" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-273" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-274" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-276" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-274" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válasz a backendnek&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="227.78" x="728.5600000000004" y="3627.49" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-274" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válasz a backendnek&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="227.78" x="3228.5600000000004" y="3917.49" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-275" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-278" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-275" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-278" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-276" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Van adat?" vertex="1">
-          <mxGeometry height="80" width="80" x="802.4499999999998" y="3717.74" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-276" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Van adat?" vertex="1">
+          <mxGeometry height="80" width="80" x="3302.45" y="4007.74" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-277" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-281" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-277" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-278" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-281" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-278" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza" vertex="1">
-          <mxGeometry height="60" width="247.78" x="718.5600000000004" y="3824.7799999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-278" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza" vertex="1">
+          <mxGeometry height="60" width="247.78" x="3218.5600000000004" y="4114.78" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-279" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: hibaüzenet" vertex="1">
-          <mxGeometry height="31.08" width="150" x="1016.3400000000001" y="3742.2" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-279" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: hibaüzenet" vertex="1">
+          <mxGeometry height="31.08" width="150" x="3516.34" y="4032.2" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-280" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-282" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-280" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-281" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-282" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-281" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: adatok továbbítása a frontendnek" vertex="1">
-          <mxGeometry height="30" width="163.89" x="760.5" y="3914.7799999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-281" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: adatok továbbítása a frontendnek" vertex="1">
+          <mxGeometry height="30" width="163.89" x="3260.5" y="4204.78" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-282" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A frontend megjeleníti a terméklistát" vertex="1">
-          <mxGeometry height="60" width="247.79" x="718.5500000000002" y="3974.7799999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-282" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend megjeleníti a terméklistát" vertex="1">
+          <mxGeometry height="60" width="247.79" x="3218.55" y="4264.78" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-283" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Terméklista lekérdezése" vertex="1">
-          <mxGeometry height="30" width="60" x="820" y="3150" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-283" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Terméklista lekérdezése" vertex="1">
+          <mxGeometry height="30" width="60" x="3320" y="3440" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-284" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Egy termék részletes lekérdezése" vertex="1">
-          <mxGeometry height="30" width="60" x="1610.13" y="3160" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-284" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Egy termék részletes lekérdezése" vertex="1">
+          <mxGeometry height="30" width="60" x="4110.13" y="3450" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-285" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1592.3571428571431" y="4124.127391304348" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-285" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="4092.357142857143" y="4414.127391304348" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-286" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="802.4471428571433" y="4069.9973913043477" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-286" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Stop" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="3302.4471428571433" y="4359.997391304348" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-287" parent="Ea3GP3iA1odVjTlwHiLo-301" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kosárba helyezés" vertex="1">
-          <mxGeometry height="30" width="60" x="123.03999999999996" y="3152.3900000000003" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-287" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kosárba helyezés" vertex="1">
+          <mxGeometry height="30" width="60" x="2623.04" y="3442.3900000000003" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-288" edge="1" parent="Ea3GP3iA1odVjTlwHiLo-301" source="Ea3GP3iA1odVjTlwHiLo-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-290" value="">
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-288" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-290" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-289" parent="Ea3GP3iA1odVjTlwHiLo-301" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
-          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="116.07714285714292" y="3185.564782608696" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-289" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="2616.077142857143" y="3475.564782608696" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-290" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználó rákattint a kosárbahelyezés gombra" vertex="1">
-          <mxGeometry height="36.71" width="266.08" x="20" y="3265.46" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-290" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználó rákattint a kosárbahelyezés gombra" vertex="1">
+          <mxGeometry height="36.71" width="266.08" x="2520" y="3555.46" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-291" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A frontend feldolgozza az eseményt" vertex="1">
-          <mxGeometry height="38.21" width="226.16" x="39.960000000000036" y="3327.5299999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-291" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend feldolgozza az eseményt" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="2539.96" y="3617.5299999999997" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-292" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás a backend felé" vertex="1">
-          <mxGeometry height="27.83" width="186.16" x="60" y="3390.91" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-292" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás a backend felé" vertex="1">
+          <mxGeometry height="27.83" width="186.16" x="2560" y="3680.91" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-293" parent="Ea3GP3iA1odVjTlwHiLo-301" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="38.21" width="226.16" x="30" y="3437" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-293" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="2530" y="3727" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-294" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: SQL lekérdezés, hogy van e már ilyen sor az adatbázisban" vertex="1">
-          <mxGeometry height="51.25" width="240" x="26.11999999999989" y="3493.5299999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-294" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: SQL lekérdezés, hogy van e már ilyen sor az adatbázisban" vertex="1">
+          <mxGeometry height="51.25" width="240" x="2526.12" y="3783.5299999999997" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-295" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott kérést" vertex="1">
-          <mxGeometry height="60" width="212.22" x="37" y="3567.49" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-295" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott kérést" vertex="1">
+          <mxGeometry height="60" width="212.22" x="2537" y="3857.49" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-296" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válasz a backendnek&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="227.78" x="30" y="3650" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-296" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: válasz a backendnek&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="227.78" x="2530" y="3940" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-297" parent="Ea3GP3iA1odVjTlwHiLo-301" style="rhombus;whiteSpace=wrap;html=1;" value="Van ilyen sor?" vertex="1">
-          <mxGeometry height="80" width="80" x="90" y="3734.8899999999994" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-297" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Van ilyen sor?" vertex="1">
+          <mxGeometry height="80" width="80" x="2590" y="4024.8899999999994" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-298" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: PUT üzenet, mennyiség növelése eggyel" vertex="1">
-          <mxGeometry height="51.25" width="240" x="30" y="3833.5299999999997" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-298" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: PUT üzenet, mennyiség növelése eggyel" vertex="1">
+          <mxGeometry height="51.25" width="240" x="2530" y="4123.53" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-299" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: PUSH új sor rögzítése" vertex="1">
-          <mxGeometry height="51.25" width="240" x="310" y="3742.2" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-299" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: PUSH új sor rögzítése" vertex="1">
+          <mxGeometry height="51.25" width="240" x="2810" y="4032.2" as="geometry" />
         </mxCell>
-        <mxCell id="Ea3GP3iA1odVjTlwHiLo-300" parent="Ea3GP3iA1odVjTlwHiLo-301" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
-          <mxGeometry height="60" width="212.22" x="40.01000000000022" y="3949.3500000000004" as="geometry" />
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-300" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="60" width="212.22" x="2540.01" y="4239.35" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-302" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="54.78260869565217" width="73.92857142857143" x="1639.997142857143" y="3488.724782608696" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-305" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fizetés" vertex="1">
+          <mxGeometry height="30" width="60" x="1646.96" y="3452.08" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-307" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználó rákattint a kosárgombra" vertex="1">
+          <mxGeometry height="36.71" width="266.08" x="1540" y="3568.7200000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-308" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend feldolgozza az eseményt" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="1563.88" y="3621.33" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-309" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás a backend felé" vertex="1">
+          <mxGeometry height="27.83" width="186.16" x="1579.96" y="3680.91" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-310" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza a kapott adatokat" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="1559.96" y="3727" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-311" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: SQL lekérdezés, a kosárhoz tartozó összes termék" vertex="1">
+          <mxGeometry height="51.25" width="240" x="1559.96" y="3778.7499999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-312" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott kérést" vertex="1">
+          <mxGeometry height="60" width="212.22" x="1570.85" y="3847.3799999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-313" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Van adat?" vertex="1">
+          <mxGeometry height="80" width="80" x="1626.96" y="3932.0599999999995" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-314" parent="1" style="whiteSpace=wrap;html=1;" value="A backend feldolgozza" vertex="1">
+          <mxGeometry height="60" width="247.78" x="1552.1800000000003" y="4024.89" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-315" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: hibaüzenet" vertex="1">
+          <mxGeometry height="31.08" width="150" x="1830" y="3946.41" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-316" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: adatok továbbítása a frontendnek" vertex="1">
+          <mxGeometry height="30" width="163.89" x="1595.01" y="4104.889999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-317" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend megjeleníti a kosár tartalmát" vertex="1">
+          <mxGeometry height="60" width="247.79" x="1558.2900000000004" y="4159.999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-318" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: a felhasználó rákattint a fizetés gombra" vertex="1">
+          <mxGeometry height="36.71" width="266.08" x="726.9200000000001" y="3566.62" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-321" edge="1" parent="1" source="Ea3GP3iA1odVjTlwHiLo-319" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ea3GP3iA1odVjTlwHiLo-320" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-319" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend betölti a fizetési oldalt" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="746.8800000000001" y="3623.3199999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-320" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: kértyatulajdonos neve" vertex="1">
+          <mxGeometry height="29.69" width="233.92" x="743" y="3688.66" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-322" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: kártyaszám" vertex="1">
+          <mxGeometry height="37.72" width="220" x="736.92" y="3740.63" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-323" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: kártya lejárata" vertex="1">
+          <mxGeometry height="37.72" width="220" x="736.92" y="3801.06" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-324" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: kártya ellenőrző kódja" vertex="1">
+          <mxGeometry height="37.72" width="220" x="726.92" y="3856.87" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-325" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: API hívás az elfogadóhely szolgáltatója felé" vertex="1">
+          <mxGeometry height="37.72" width="220" x="990" y="3902.2799999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-326" parent="1" style="whiteSpace=wrap;html=1;" value="A frontend továbbítja a backend felé, a tranzakció adatait és válaszkódot&amp;nbsp;" vertex="1">
+          <mxGeometry height="38.21" width="226.16" x="716.9200000000001" y="3967.8799999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-327" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Ki: PUSH üzenet a tranzakció rögzítése az adatbázisban" vertex="1">
+          <mxGeometry height="51.25" width="240" x="710" y="4027.609999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-328" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Az adatbázis feldolgozza a kapott kérést" vertex="1">
+          <mxGeometry height="60" width="212.22" x="726.9199999999998" y="4096.2" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-329" parent="1" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" value="" vertex="1">
+          <mxGeometry height="80" width="100" x="1270" y="3917.49" as="geometry" />
+        </mxCell>
+        <mxCell id="Ea3GP3iA1odVjTlwHiLo-330" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Be: a szolgáltató válaszkódja" vertex="1">
+          <mxGeometry height="37.72" width="220" x="976.92" y="3968.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
